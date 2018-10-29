@@ -1,4 +1,4 @@
-# Cloudgarage Developers Meetup
+### Cloudgarage Developer's Meetup
 
 ### @FoxBoxsnet
 
@@ -6,20 +6,20 @@
 
 # $ whoim 
 
-FoxBoxsnet
-職業: えんじにあー
-業種: 某データセンター事業者
+* @FoxBoxsnet
+* 職業: えんじにあー
+* 業種: 某データセンター事業者
 
 ---
 
-# DAP(Developer Assistant Programme) 知ってますか？
+### DAP(Developer Assistant Programme) 知ってますか？
 
 ---
 
 # DAP 使ってますか？
 
-### vCPU 1Core, Mem 1G
-### 3 インスタンス使えます
+* vCPU 1Core, Mem 1G
+* 3 インスタンス使えます
 
 ---
 
@@ -27,8 +27,8 @@ FoxBoxsnet
 
 ## 情報ソースどうしてる？
 
-### サポート障害情報の RSS を登録する
-### ツイッターで `#CloudGarage` を漁る
+* サポート障害情報の RSS を登録する
+* ツイッターで `#CloudGarage` を漁る
 
 ---
 
@@ -36,7 +36,7 @@ FoxBoxsnet
 
 ## アドベントカレンダー
 
-### 今年もやろうと思う
+* 今年もやろうと思う
 
 ---
 
