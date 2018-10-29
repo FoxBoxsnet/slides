@@ -1,18 +1,20 @@
 ### Cloudgarage Developer's Meetup
 
-### @FoxBoxsnet
+* 2018-10-30
+* @FoxBoxsnet
 
 ---
 
-# $ whoim 
+# $ WHOAMI
 
-* @FoxBoxsnet
+* Id: @FoxBoxsnet
 * 職業: えんじにあー
 * 業種: 某データセンター事業者
 
 ---
 
-### DAP(Developer Assistant Programme) 知ってますか？
+###### DAP(Developer Assistant Programme)
+##### 知ってますか？
 
 ---
 
@@ -42,9 +44,8 @@
 
 # 本題
 
-## リリースしてからパフォーマンスどうっすか？
-
-### リリース直後に unixbentch 取ってるので比べてみる
+* リリースしてからパフォーマンスどうっすか？
+* リリース直後に unixbentch 取ってるので比べてみる
 
 ---
 
@@ -58,7 +59,7 @@
 
 # unixbentch
 
-去年、今年、比率を書く
+* 去年、今年、比率を書く
 
 ---
 
