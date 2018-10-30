@@ -8,7 +8,7 @@
 ### $ WHOAMI
 
 @snap[west] whoami-icon]
-![](assets\img\icon.png)
+![](assets/img/icon.png)
 @snapend
 
 * Id: @FoxBoxsnet
@@ -83,7 +83,7 @@
 #### アドベントカレンダー
 
 
-![](assets\img\01.png)
+![](assets/img/01.png)
 
 +++
 
