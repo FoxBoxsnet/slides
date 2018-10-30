@@ -4,11 +4,11 @@
 * @FoxBoxsnet
 
 ---
-
-
-
-### $ WHOAMI
 @transition[none]
+
+@snap[north]
+### $ WHOAMI
+@snapend
 
 @snap[west] whoami-icon]
 ![](assets/img/icon.png)
