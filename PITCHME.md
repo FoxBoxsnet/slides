@@ -1,7 +1,11 @@
-### Cloudgarage Developer's Meetup
 
+<div style="float: light;">
+### Cloudgarage Developer's Meetup
 * 2018-10-30
 * @FoxBoxsnet
+</div>
+
+
 
 ---
 ### $ WHOAMI
