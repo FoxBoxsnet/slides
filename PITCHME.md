@@ -5,15 +5,20 @@
 
 ---
 
+
+
 ### $ WHOAMI
+@transition[none]
 
 @snap[west] whoami-icon]
 ![](assets/img/icon.png)
 @snapend
 
+@snap[midpoint]
 * Id: @FoxBoxsnet
 * 職業: くらうどえんじにあー
 * 業種: 某データセンター事業者
+@snapend
 
 ---
 
