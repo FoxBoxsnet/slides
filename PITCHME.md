@@ -4,21 +4,15 @@
 * @FoxBoxsnet
 
 ---
-@transition[none]
-
-@snap[north]
 ### $ WHOAMI
-@snapend
 
-@snap[west] whoami-icon]
-![](assets/img/icon.png)
-@snapend
+<div style="float: left;">
+![@FoxBoxsnet](assets\img\icon.png)
+</div>
 
-@snap[midpoint]
 * Id: @FoxBoxsnet
 * 職業: くらうどえんじにあー
 * 業種: 某データセンター事業者
-@snapend
 
 ---
 
