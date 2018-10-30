@@ -27,6 +27,8 @@
 * 申し込みはこちらから
   * https://cloudgarage.jp/dap/
 
+![](assets\img\dap.png)
+
 ---
 
 ### 余談
