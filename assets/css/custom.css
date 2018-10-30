@@ -1,0 +1,9 @@
+.reveal table {
+  font-size: 38px;
+}
+
+.whoami-icon img {
+  width: 50%;
+  border: none !important;
+  box-shadow: none !important;
+}
